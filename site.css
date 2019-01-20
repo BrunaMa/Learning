@@ -1,0 +1,16 @@
+body {
+	font-family: 'Times New Roman', Times, serif;
+	background-color: #F2FFFC
+}
+main h1 {
+	font-family: "Open Sans Condensed", serif;
+	color: white;
+	text-align: center;
+	background-color: #851944;
+}
+h2 {
+	font-family: Arial;
+}
+p {
+	text-align:justify;
+}
